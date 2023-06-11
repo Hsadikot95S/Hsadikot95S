@@ -8,6 +8,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hsadikot95S)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Hsadikot)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
