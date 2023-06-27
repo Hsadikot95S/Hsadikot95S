@@ -2,13 +2,11 @@
 
 <h3 align="center">🎓 Master's Candidate in Computer Science | 💼 Emerging Tech Enthusiast | 🧩 Data Solver | 💡 AsAspiring Software Engineer & Data Science Professional</h3>
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Hsadikot95S&show_icons=true&theme=transparent" />
-<img align="left" width="47%" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=Hsadikot95S)](https://github.com/anuraghazra/github-readme-stats" />
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hsadikot95S)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Hsadikot)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
