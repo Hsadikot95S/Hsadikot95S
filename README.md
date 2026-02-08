@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Huzefa</h1>
 
-<h3 align="center">🎓 Master's Candidate in Computer Science | 💼 Emerging Tech Enthusiast | 🧩 Data Solver | 💡 AsAspiring Software Engineer & Data Science Professional</h3>
+<h3 align="center">🎓 Master's In Computer Science | 💼 Emerging Tech Enthusiast | 🧩 Data Solver | 💡 AsAspiring Software Engineer & Data Science Professional</h3>
 
 
 
@@ -54,13 +54,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hsadikot95s" alt="hsadikot95s" /></a> </p>
 
-- 🔭 I’m currently working on [Todolist App](https://github.com/Hsadikot95S/Todo-App)
+- 🔭 I’m currently working on [RAG Pipeline](https://github.com/Hsadikot95S/RAG-Pipeline)
 
-- 🌱 I’m currently learning **React,Bootstrap,HTML,CSS**
+- 🌱 I’m currently learning **React,Bootstrap,HTML,CSS, Javascript and Node.JS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Hsadikot95S](https://github.com/Hsadikot95S)
 
-- 💬 Ask me about **Docker,Python,ML,Data-Engineering and Databases**
+- 💬 Ask me about **Docker, Python, ML, RAG, Data-Engineering, and Databases**
 
 - 📫 How to reach me **sadikothuzi3@gmail.com**
 
