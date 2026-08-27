@@ -52,6 +52,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hsadikot95s&label=Profile%20views&color=0e75b6&style=flat" alt="hsadikot95s" /> </p>
 
+<p align="left"> <img src = "https://trophygithubreadmelang.cybee.dpdns.org/?username=Hsadikot95S" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hsadikot95s" alt="hsadikot95s" /></a> </p>
 
 - 🔭 I’m currently working on [RAG Pipeline](https://github.com/Hsadikot95S/RAG-Pipeline)
