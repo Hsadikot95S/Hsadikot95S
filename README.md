@@ -54,7 +54,13 @@
 
 <p align="left"> <img src = "https://trophygithubreadmelang.cybee.dpdns.org/?username=Hsadikot95S" /> </p>
 
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hsadikot95s" alt="hsadikot95s" /></a> </p>
+
+<p align="left"> <a href = "https://github-profile-trophy-orcin-eta.vercel.app/?username=Hsadikot95S" /></a></p>
+
+
 
 - 🔭 I’m currently working on [RAG Pipeline](https://github.com/Hsadikot95S/RAG-Pipeline)
 
@@ -66,7 +72,6 @@
 
 - 📫 How to reach me **sadikothuzi3@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10vHyJKvQy8G2kX7RFQbBLeVE1Rbqhfxn/view?usp=sharing](https://drive.google.com/file/d/10vHyJKvQy8G2kX7RFQbBLeVE1Rbqhfxn/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
