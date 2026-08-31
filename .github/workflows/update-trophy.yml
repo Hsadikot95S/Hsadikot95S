@@ -19,7 +19,7 @@ jobs:
       - name: Generate selected trophies
         uses: soulteary/github-profile-trophy-action@v1.0.0
         with:
-          options: 'username=${{ github.repository_owner }}&theme=onedark&title=Experience,Followers,Commits,MultiLanguage&no-bg=true&no-frame=true&column=4&margin-w=12&margin-h=12'
+          options: 'username=Hsadikot95S&theme=onedark&title=Experience,Commits,Followers&column=3&row=1&margin-w=15&margin-h=10&no-bg=true&no-frame=true'
           path: profile/trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
