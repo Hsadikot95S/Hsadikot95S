@@ -321,7 +321,23 @@ Databases
 <p align="center">
   <img
     src="./profile/trophy.svg"
-    alt="GitHub Trophies"
+    alt="GitHub Contributions"
+  />
+</p>
+
+<br>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Hsadikot95S&show_icons=true&theme=dark&hide_border=true&include_all_commits=true"
+    height="180"
+    alt="GitHub Statistics"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hsadikot95S&layout=compact&theme=dark&hide_border=true&langs_count=8"
+    height="180"
+    alt="Most Used Languages"
   />
 </p>
 
