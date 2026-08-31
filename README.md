@@ -292,30 +292,6 @@ Databases
 
 ---
 
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/🐍%20Python-ML%20%26%20AI-3776AB?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/🤖%20Generative%20AI-LLM%20Applications-8A2BE2?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/🔎%20RAG-Production%20Systems-00A67E?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/🧠%20Machine%20Learning-Model%20Development-F7931E?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/🐳%20Docker-Containerized%20Systems-2496ED?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/☁️%20Cloud-AWS%20%7C%20GCP%20%7C%20Azure-0078D4?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/⚙️%20Backend-Python%20%7C%20Flask-000000?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/🗄️%20Databases-SQL%20%7C%20NoSQL-336791?style=for-the-badge"/>
-
-</p>
-
----
-
 # 📊 GitHub Contributions
 
 <p align="center">
