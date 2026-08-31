@@ -314,7 +314,9 @@ Databases
 
 </p>
 
----# 🏆 GitHub Contributions
+---
+
+# 🏆 GitHub Contributions
 
 <p align="center">
   <img
@@ -322,6 +324,7 @@ Databases
     alt="GitHub Trophies"
   />
 </p>
+
 ---
 
 # 🤝 Connect With Me
