@@ -316,7 +316,7 @@ Databases
 
 ---
 
-# 🏆 GitHub Contributions
+# 🏆 GitHub Trophies
 
 <p align="center">
   <img
@@ -324,22 +324,6 @@ Databases
     alt="GitHub Trophies"
   />
 </p>
-
-<br>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Hsadikot95S&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"
-    height="180"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Hsadikot95S&theme=dark&hide_border=true"
-    height="180"
-    alt="GitHub Streak"
-  />
-</p>
-
 ---
 
 # 🤝 Connect With Me
