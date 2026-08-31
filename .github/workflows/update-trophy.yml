@@ -19,7 +19,8 @@ jobs:
       - name: Generate selected trophies
         uses: soulteary/github-profile-trophy-action@v1.0.0
         with:
-        options: 'username=Hsadikot95S&theme=onedark&title=Experience,Commits,Followers&column=3&margin-w=25&margin-h=15&no-bg=true&no-frame=true'
+          options: 'username=Hsadikot95S&theme=onedark&title=Experience,Commits,Followers&column=3&margin-w=25&margin-h=15&no-bg=true&no-frame=true'
+          path: profile/trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit generated stats
