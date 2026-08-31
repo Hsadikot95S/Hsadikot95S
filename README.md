@@ -316,7 +316,7 @@ Databases
 
 ---
 
-# 🏆 GitHub Contributions
+# 📊 GitHub Contributions
 
 <p align="center">
   <img
@@ -329,14 +329,13 @@ Databases
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Hsadikot95S&show_icons=true&theme=dark&hide_border=true&include_all_commits=true"
-    height="180"
+    src="./profile/stats.svg"
+    width="48%"
     alt="GitHub Statistics"
   />
-
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hsadikot95S&layout=compact&theme=dark&hide_border=true&langs_count=8"
-    height="180"
+    src="./profile/top-langs.svg"
+    width="48%"
     alt="Most Used Languages"
   />
 </p>
